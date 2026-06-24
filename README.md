@@ -92,7 +92,7 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
    ```sh
    SESSION_ID=levanter_246f8b8e86185246e6af604c2bf18dfe54
    PREFIX=null
-   STICKER_PACKNAME=𓍯𝑇𝛩𝛸𝛪𝐶 𝐵𝛩𝛪𝛪²²²𓆪ː͢
+   STICKER_PACKNAME=𓍯𝑇𝛩𝛸𝛪𝐶 𝐵𝛩𝛪𝛪𓆪ː͢
    ALWAYS_ONLINE=false
    RMBG_KEY=null
    LANGUAG=en
