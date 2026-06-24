@@ -90,9 +90,9 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
    Create a `config.env` file and add the following lines:
 
    ```sh
-   SESSION_ID=your_session_id_here
-   PREFIX=.
-   STICKER_PACKNAME=LyFE
+   SESSION_ID=levanter_246f8b8e86185246e6af604c2bf18dfe54
+   PREFIX=null
+   STICKER_PACKNAME=𓍯𝑇𝛩𝛸𝛪𝐶 𝐵𝛩𝛪𝛪²²²𓆪ː͢
    ALWAYS_ONLINE=false
    RMBG_KEY=null
    LANGUAG=en
